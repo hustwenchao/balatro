@@ -1,0 +1,262 @@
+[
+    {
+        "name": "A",
+        "score": 11,
+        "suit": "♠"
+    },
+    {
+        "name": "K",
+        "score": 10,
+        "suit": "♠"
+    },
+    {
+        "name": "Q",
+        "score": 10,
+        "suit": "♠"
+    },
+    {
+        "name": "J",
+        "score": 10,
+        "suit": "♠"
+    },
+    {
+        "name": "10",
+        "score": 10,
+        "suit": "♠"
+    },
+    {
+        "name": "9",
+        "score": 9,
+        "suit": "♠"
+    },
+    {
+        "name": "8",
+        "score": 8,
+        "suit": "♠"
+    },
+    {
+        "name": "7",
+        "score": 7,
+        "suit": "♠"
+    },
+    {
+        "name": "6",
+        "score": 6,
+        "suit": "♠"
+    },
+    {
+        "name": "5",
+        "score": 5,
+        "suit": "♠"
+    },
+    {
+        "name": "4",
+        "score": 4,
+        "suit": "♠"
+    },
+    {
+        "name": "3",
+        "score": 3,
+        "suit": "♠"
+    },
+    {
+        "name": "2",
+        "score": 2,
+        "suit": "♠"
+    },
+    {
+        "name": "A",
+        "score": 11,
+        "suit": "♥"
+    },
+    {
+        "name": "K",
+        "score": 10,
+        "suit": "♥"
+    },
+    {
+        "name": "Q",
+        "score": 10,
+        "suit": "♥"
+    },
+    {
+        "name": "J",
+        "score": 10,
+        "suit": "♥"
+    },
+    {
+        "name": "10",
+        "score": 10,
+        "suit": "♥"
+    },
+    {
+        "name": "9",
+        "score": 9,
+        "suit": "♥"
+    },
+    {
+        "name": "8",
+        "score": 8,
+        "suit": "♥"
+    },
+    {
+        "name": "7",
+        "score": 7,
+        "suit": "♥"
+    },
+    {
+        "name": "6",
+        "score": 6,
+        "suit": "♥"
+    },
+    {
+        "name": "5",
+        "score": 5,
+        "suit": "♥"
+    },
+    {
+        "name": "4",
+        "score": 4,
+        "suit": "♥"
+    },
+    {
+        "name": "3",
+        "score": 3,
+        "suit": "♥"
+    },
+    {
+        "name": "2",
+        "score": 2,
+        "suit": "♥"
+    },
+    {
+        "name": "A",
+        "score": 11,
+        "suit": "♣"
+    },
+    {
+        "name": "K",
+        "score": 10,
+        "suit": "♣"
+    },
+    {
+        "name": "Q",
+        "score": 10,
+        "suit": "♣"
+    },
+    {
+        "name": "J",
+        "score": 10,
+        "suit": "♣"
+    },
+    {
+        "name": "10",
+        "score": 10,
+        "suit": "♣"
+    },
+    {
+        "name": "9",
+        "score": 9,
+        "suit": "♣"
+    },
+    {
+        "name": "8",
+        "score": 8,
+        "suit": "♣"
+    },
+    {
+        "name": "7",
+        "score": 7,
+        "suit": "♣"
+    },
+    {
+        "name": "6",
+        "score": 6,
+        "suit": "♣"
+    },
+    {
+        "name": "5",
+        "score": 5,
+        "suit": "♣"
+    },
+    {
+        "name": "4",
+        "score": 4,
+        "suit": "♣"
+    },
+    {
+        "name": "3",
+        "score": 3,
+        "suit": "♣"
+    },
+    {
+        "name": "2",
+        "score": 2,
+        "suit": "♣"
+    },
+    {
+        "name": "A",
+        "score": 11,
+        "suit": "♦"
+    },
+    {
+        "name": "K",
+        "score": 10,
+        "suit": "♦"
+    },
+    {
+        "name": "Q",
+        "score": 10,
+        "suit": "♦"
+    },
+    {
+        "name": "J",
+        "score": 10,
+        "suit": "♦"
+    },
+    {
+        "name": "10",
+        "score": 10,
+        "suit": "♦"
+    },
+    {
+        "name": "9",
+        "score": 9,
+        "suit": "♦"
+    },
+    {
+        "name": "8",
+        "score": 8,
+        "suit": "♦"
+    },
+    {
+        "name": "7",
+        "score": 7,
+        "suit": "♦"
+    },
+    {
+        "name": "6",
+        "score": 6,
+        "suit": "♦"
+    },
+    {
+        "name": "5",
+        "score": 5,
+        "suit": "♦"
+    },
+    {
+        "name": "4",
+        "score": 4,
+        "suit": "♦"
+    },
+    {
+        "name": "3",
+        "score": 3,
+        "suit": "♦"
+    },
+    {
+        "name": "2",
+        "score": 2,
+        "suit": "♦"
+    }
+]
